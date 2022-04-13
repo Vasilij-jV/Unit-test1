@@ -5,19 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "lint": "eslint .",
-    "build": "babel src -d dist"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vasilij-jV/Unit-test.git"
+    "url": "git+https://github.com/Vasilij-jV/Unit-test1.git"
   },
   "author": "Vasilij",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vasilij-jV/Unit-test/issues"
+    "url": "https://github.com/Vasilij-jV/Unit-test1/issues"
   },
-  "homepage": "https://github.com/Vasilij-jV/Unit-test#readme",
+  "homepage": "https://github.com/Vasilij-jV/Unit-test1#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.9",
